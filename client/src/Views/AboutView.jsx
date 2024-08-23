@@ -32,7 +32,7 @@ function About(props) {
                             </li>
                             <li>
                                 <strong>Fariba Mohammadi</strong> - System Architect and Developer:
-                                Designs and sets up the database, conducts research, and contributes to UI design.
+                                Designs and sets up the database and its intraction between server and client, conducts research, set up web app, contributes to software development and  UI design.
                             </li>
                         </ul>
                         <p>
